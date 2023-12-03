@@ -1,0 +1,14 @@
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Mitko\Downloads\Advent code day 1-20231202T131724Z-001\Day 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

@@ -1,4 +1,4 @@
-# Advent of code - a solution with c#
+# Advent of code - a solution with C#
 
 ## Created by Mitko0012
 

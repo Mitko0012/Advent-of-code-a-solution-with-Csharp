@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Part2
 {
@@ -10,7 +10,7 @@ namespace Part2
             Program solution = new Program();
             char[] instructions = input[0].ToCharArray();
             int i = 0;
-            int currentLine = 2;
+            int currentLine = solution.calculateStartPositon();
             int steps = 0;
             bool zNotFound = true;  
 
@@ -81,6 +81,29 @@ namespace Part2
                   continue;  
                }
             }
+            
+            return 2;
+        }
+
+        int calculateStartPositon()
+        {
+            foreach(string s in input)
+            {
+                try
+                {                
+                  if (s.Substring(0, 3) == "AAA")
+                  {
+                      
+                      return Array.IndexOf(input, s);
+                                   
+                  }
+                }
+               catch
+               {
+                  continue;  
+               }
+            }
+            
             return 2;
         }
     }
